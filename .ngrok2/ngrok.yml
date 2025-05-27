@@ -1,0 +1,10 @@
+authtoken: YOUR_AUTH_TOKEN
+
+tunnels:
+  frontend:
+    addr: 5173
+    proto: http
+
+  backend:
+    addr: 2567
+    proto: http
